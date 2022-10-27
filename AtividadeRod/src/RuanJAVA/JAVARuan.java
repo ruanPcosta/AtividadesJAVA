@@ -14,7 +14,7 @@ public class JAVARuan {
         System.out.println("Digite a nota do segundo bimestre (Peso 3):");
         bim2 = ruanpc.nextFloat();
         
-        System.out.println("Essa é a média do aluno: " + (bim1*2 + bim2*3)/2);
+        System.out.println("Essa é a média do aluno: " + (bim1*2 + bim2*3)/5);
         
 
         
